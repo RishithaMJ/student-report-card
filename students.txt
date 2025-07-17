@@ -1,0 +1,5 @@
+rishitha,45,88,90,74.33,pass
+manu,90,90,90,90.00,pass
+nidhi,88,100,67,85.00,pass
+rakshitha,99,67,89,85.00,pass
+rithi,23,56,34,37.67,Fail
